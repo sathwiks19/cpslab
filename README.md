@@ -16,4 +16,4 @@ Led with digital counter
 https://www.tinkercad.com/things/2wci6YHx13q?sharecode=qdq1Ezbik6CCzNXTdCJ_Kgnmlp1LZ-TI6L8DAmRcM7A
 
 regular intervals in a compact format
-https://www.tinkercad.com/things/9NY164culpl
+https://www.tinkercad.com/things/9NY164culpl?sharecode=0TATxb8749L3-ugJLAcWnF06rBtdSuhif_-5ngDUf5c
